@@ -4,7 +4,8 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 
 | Project | Target | Coverage | Description |
 |-        |-       |         -|            -|
-| [ts2c](https://github.com/andrei-markeev/ts2c)                          | `C`   | 70% of ES3 | Transpiler Written in C and TypeScript ([online demo](https://andrei-markeev.github.io/ts2c/)) |
-| [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | unknown | Transpiler Written in TypeScript ([online demo](https://typescripttolua.github.io/play/)) |
-| [ts2gd](https://github.com/johnfn/ts2gd)                                | `GDScript` | unknown | Transpiler Written in TypeScript
-| [AssemblyScript](https://github.com/TypeScriptToLua/TypeScriptToLua) | `wasm` | TS subset | Compiler Written in TypeScript ([online demo](https://assemblyscript.org/)) |
+| [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) | `wasm` | TS subset | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/)) |
+| [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | unknown | Typescript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
+| [ts2c](https://github.com/andrei-markeev/ts2c)                          | `C`   | 70% of ES3 | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
+| [ts2gd](https://github.com/johnfn/ts2gd)                                | `GDScript` | unknown | Compile TypeScript to GDScript for Godot.
+| [BashScript](https://github.com/niieani/bashscript)                   | `bash` | unknown | TypeScript to bash transpiler. Because.
