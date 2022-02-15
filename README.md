@@ -8,6 +8,7 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 | [swc](https://github.com/swc-project/swc) | `JavaScript` | Super-fast TypeScript / JavaScript compiler written in Rust. ([online demo](https://swc.rs/playground)) |
 | [babel](https://github.com/babel/babel) | `JavaScript` | Babel is a compiler for writing next generation JavaScript. ([online demo](https://babeljs.io/repl)) |
 | [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/editor.html)) |
+| [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) | `C` | A TypeScript-like language created by Microsoft. |
 | [StaticScript](https://github.com/StaticScript/StaticScript)          | `LLVM` | A new statically typed programming language, syntactically like TypeScript.
 | [hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) | `Flutter` | No native bridge, no V8. Just Dart.
 | [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Typescript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
