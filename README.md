@@ -7,7 +7,7 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 | [sucrase](https://github.com/alangpierce/sucrase) | `JavaScript` | Super-fast alternative to Babel ([online demo](https://sucrase.io/)) |
 | [swc](https://github.com/swc-project/swc) | `JavaScript` | Super-fast TypeScript / JavaScript compiler written in Rust. ([online demo](https://swc.rs/playground)) |
 | [babel](https://github.com/babel/babel) | `JavaScript` | Babel is a compiler for writing next generation JavaScript. ([online demo](https://babeljs.io/repl)) |
-| [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/)) |
+| [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/editor.html)) |
 | [StaticScript](https://github.com/StaticScript/StaticScript)          | `LLVM` | A new statically typed programming language, syntactically like TypeScript.
 | [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Typescript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
 | [roblox-ts](https://github.com/roblox-ts/roblox-ts)                   | `Luau` | A TypeScript-to-Luau Compiler for Roblox. ([online demo](https://roblox-ts.com/playground)) |
