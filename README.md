@@ -1,5 +1,5 @@
 # Awesome Typescript Compilers and Transpilers
-A curated list of [awesome](https://www.youtube.com/watch?v=kY-pUxKQMUE) alternative TypeScript compilers to `tsc` that might target other languages and platforms. 
+A curated list of awesome alternative TypeScript compilers to `tsc` that might target other [languages](https://www.youtube.com/watch?v=kY-pUxKQMUE) and platforms. 
 
 
 | Project | Target | Description |
