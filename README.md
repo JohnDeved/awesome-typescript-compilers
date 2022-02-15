@@ -3,7 +3,7 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 
 
 | Project | Target | Description |
-|-        |-       |            -|
+|-        |:-:     |            -|
 | [sucrase](https://github.com/alangpierce/sucrase) | `JavaScript` | Super-fast alternative to Babel ([online demo](https://sucrase.io/)) |
 | [swc](https://github.com/swc-project/swc) | `JavaScript` | Super-fast TypeScript / JavaScript compiler written in Rust. ([online demo](https://swc.rs/playground)) |
 | [babel](https://github.com/babel/babel) | `JavaScript` | Babel is a compiler for writing next generation JavaScript. ([online demo](https://babeljs.io/repl)) |
