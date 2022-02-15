@@ -16,5 +16,6 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 | [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | A TypeScript-to-Luau Compiler for Roblox. ([online demo](https://roblox-ts.com/playground)) |
 | [ts2gd](https://github.com/johnfn/ts2gd) | `GDScript` | Compile TypeScript to GDScript for Godot.
 | [ts2c](https://github.com/andrei-markeev/ts2c) | `C` | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
+| [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. ([online demo](https://bung87.github.io/ts2nim/)) |
 | [BashScript](https://github.com/niieani/bashscript) | `bash` | TypeScript to bash transpiler. Because.
 | [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler.
