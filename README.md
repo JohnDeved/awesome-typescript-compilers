@@ -20,5 +20,5 @@ A curated list of awesome TypeScript compilers, runtimes and transpilers that mi
 | [ts2gd](https://github.com/johnfn/ts2gd) | `GDScript` | Compile TypeScript to GDScript for Godot.
 | [ts2c](https://github.com/andrei-markeev/ts2c) | `C` | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
-| [BashScript](https://github.com/niieani/bashscript) | `bash` | TypeScript to bash transpiler. Because.
-| [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler.
+| [BashScript](https://github.com/niieani/bashscript) | `bash` | TypeScript to bash transpiler. Because. |
+| [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler. |
