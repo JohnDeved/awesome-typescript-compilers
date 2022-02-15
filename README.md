@@ -1,4 +1,4 @@
-# Awesome Typescript Compilers and Transpilers
+# Awesome TypeScript Compilers and Transpilers
 A curated list of awesome alternative TypeScript compilers to `tsc` that might target other [languages](https://www.youtube.com/watch?v=kY-pUxKQMUE) and platforms. 
 
 
