@@ -4,8 +4,8 @@ A curated list of [awesome](https://www.youtube.com/watch?v=kY-pUxKQMUE) alterna
 
 | Project | Target | Coverage | Description |
 |-        |-       |         -|            -|
-| [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | TS like | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/)) |
 | [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | unknown | Typescript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
+| [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | TS like | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/)) |
 | [StaticScript](https://github.com/StaticScript/StaticScript)          | `LLVM` | TS like | A new statically typed programming language, syntactically like TypeScript.
 | [roblox-ts](https://github.com/roblox-ts/roblox-ts)                   | `Luau` | unknown | A TypeScript-to-Luau Compiler for Roblox. ([online demo](https://roblox-ts.com/playground)) |
 | [ts2gd](https://github.com/johnfn/ts2gd)                              | `GDScript` | unknown | Compile TypeScript to GDScript for Godot.
