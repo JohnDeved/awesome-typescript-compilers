@@ -9,6 +9,7 @@ A curated list of awesome alternative TypeScript compilers to `tsc` that might t
 | [babel](https://github.com/babel/babel) | `JavaScript` | Babel is a compiler for writing next generation JavaScript. ([online demo](https://babeljs.io/repl)) |
 | [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)    | `WASM` | A TypeScript-like language for WebAssembly. ([online demo](https://assemblyscript.org/editor.html)) |
 | [StaticScript](https://github.com/StaticScript/StaticScript)          | `LLVM` | A new statically typed programming language, syntactically like TypeScript.
+| [hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) | `Flutter` | No native bridge, no V8. Just Dart.
 | [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Typescript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
 | [roblox-ts](https://github.com/roblox-ts/roblox-ts)                   | `Luau` | A TypeScript-to-Luau Compiler for Roblox. ([online demo](https://roblox-ts.com/playground)) |
 | [ts2gd](https://github.com/johnfn/ts2gd)                              | `GDScript` | Compile TypeScript to GDScript for Godot.
