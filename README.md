@@ -9,6 +9,7 @@ A curated list of awesome TypeScript compilers, runtimes and transpilers that mi
 | [swc](https://github.com/swc-project/swc) | `JavaScript` | Super-fast TypeScript / JavaScript compiler written in Rust. ([online demo](https://swc.rs/playground)) |
 | [esbuild](https://github.com/evanw/esbuild) | `JavaScript` | Fast JavaScript and CSS bundler. ([online demo](https://esbuild.egoist.sh/)) |
 | [babel](https://github.com/babel/babel) | `JavaScript` | Babel is a compiler for writing next generation JavaScript. ([online demo](https://babeljs.io/repl)) |
+| [bun](https://github.com/Jarred-Sumner/bun) | `runtime` | Incredibly fast JavaScript runtime, bundler, transpiler and package manager. ([online demo](https://replit.com/@coetry/bun?v=1)) |
 | [deno](https://github.com/denoland/deno) | `runtime` | Deno is a secure, fast, and open-source runtime for JavaScript and TypeScript. ([online demo](https://replit.com/languages/deno)) |
 | [elsa](https://github.com/elsaland/elsa) | `runtime` | elsa is a minimal, fast and secure runtime for JavaScript and TypeScript
 | [ts2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Complete TypeScript to lua transpiler. ([online demo](https://typescripttolua.github.io/play/)) |
