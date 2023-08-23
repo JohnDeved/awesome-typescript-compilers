@@ -25,3 +25,4 @@ A curated list of awesome TypeScript compilers, runtimes and transpilers that mi
 | [ts2c](https://github.com/andrei-markeev/ts2c) | `C` | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
 | [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler. |
+| [typesl](https://github.com/SieR-VR/typesl) | `GLSL` | Typescript to GLSL transpiler. |
