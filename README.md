@@ -16,8 +16,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 ## Runtimes
 | Project | Description |
 |-|-|
-| [bun](https://github.com/oven-sh/bun) | All-in-one JavaScript runtime & toolkit written in Zig. ([playground](https://bun.sh/repl)) |
-| [deno](https://github.com/denoland/deno) | Secure runtime for JavaScript and TypeScript with built-in dev tools. ([playground](https://repl.it/languages/deno)) |
+| [bun](https://github.com/oven-sh/bun) | All-in-one JavaScript runtime & toolkit written in Zig. |
+| [deno](https://github.com/denoland/deno) | Secure runtime for JavaScript and TypeScript with built-in dev tools. |
 | [elsa](https://github.com/elsaland/elsa) | Minimal, fast and secure runtime for JavaScript and TypeScript written in Go. |
 
 ## Other Language Targets
