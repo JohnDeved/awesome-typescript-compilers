@@ -9,7 +9,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/playground/)) |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
 | [sucrase](https://github.com/alangpierce/sucrase) | Super-fast alternative to Babel focusing on modern JS runtimes. ([playground](https://sucrase.io/)) |
-| [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. |
+| [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. ([playground](https://playground.oxc.rs/)) |
 | [ezno](https://github.com/kaleidawave/ezno) | JavaScript compiler and TypeScript checker in Rust focusing on static analysis. |
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
 
