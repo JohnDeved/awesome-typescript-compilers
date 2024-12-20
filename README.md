@@ -12,6 +12,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. ([playground](https://playground.oxc.rs/)) |
 | [ezno](https://github.com/kaleidawave/ezno) | JavaScript compiler and TypeScript checker in Rust focusing on static analysis. |
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
+| [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
+| [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. |
 
 ## Runtimes
 | Project | Description |
@@ -32,6 +34,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Feature-complete TypeScript to Lua compiler. ([playground](https://typescripttolua.github.io/play/)) |
 | [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | TypeScript-to-Luau compiler for Roblox. ([playground](https://roblox-ts.com/playground)) |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
+| [ts2dart](https://github.com/angular/ts2dart) | `Dart` | TypeScript to Dart transpiler. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
