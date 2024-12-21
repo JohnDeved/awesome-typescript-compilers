@@ -6,7 +6,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 |-|-|
 | [tsc](https://github.com/microsoft/TypeScript) | Official TypeScript compiler by Microsoft. ([playground](https://www.typescriptlang.org/play)) |
 | [swc](https://github.com/swc-project/swc) | Rust-based platform for fast TypeScript/JavaScript compilation. ([playground](https://swc.rs/playground)) |
-| [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/playground/)) |
+| [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
 | [sucrase](https://github.com/alangpierce/sucrase) | Super-fast alternative to Babel focusing on modern JS runtimes. ([playground](https://sucrase.io/)) |
 | [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. ([playground](https://playground.oxc.rs/)) |
