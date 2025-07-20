@@ -14,7 +14,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
 | [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. |
-| [TypeScript Native Compiler (Go-based)](https://github.com/microsoft/typescript-go) | Experimental Go-based TypeScript compiler by Microsoft targeting 10x performance improvements. |
+| [tsc (Go-based)](https://github.com/microsoft/typescript-go) | Experimental Go-based TypeScript compiler by Microsoft targeting 10x performance improvements. |
 
 ## Runtimes
 | Project | Description |
