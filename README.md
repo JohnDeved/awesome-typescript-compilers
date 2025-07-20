@@ -5,6 +5,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | Project | Description |
 |-|-|
 | [tsc](https://github.com/microsoft/TypeScript) | Official TypeScript compiler by Microsoft. ([playground](https://www.typescriptlang.org/play)) |
+| [tsgo](https://github.com/microsoft/typescript-go) | Experimental Go-based TypeScript compiler by Microsoft targeting 10x performance improvements. |
 | [swc](https://github.com/swc-project/swc) | Rust-based platform for fast TypeScript/JavaScript compilation. ([playground](https://swc.rs/playground)) |
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
@@ -14,7 +15,6 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
 | [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. |
-| [tsc (Go-based)](https://github.com/microsoft/typescript-go) | Experimental Go-based TypeScript compiler by Microsoft targeting 10x performance improvements. |
 
 ## Runtimes
 | Project | Description |
