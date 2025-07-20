@@ -37,6 +37,11 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
 | [ts2dart](https://github.com/angular/ts2dart) | `Dart` | TypeScript to Dart transpiler. |
 
+## Experimental/Upcoming
+### TypeScript Native Compiler (Go-based)
+- **Repository/Announcement**: [Microsoft Announcement](https://devblogs.microsoft.com/typescript/typescript-native-port/) | [LogRocket Blog](https://blog.logrocket.com/typescript-new-compiler/)
+- **Description**: A new native port of the TypeScript compiler, written in Go, aiming to deliver 10x faster performance on builds, CI/CD, editor startup, and hot reloads compared to the current JavaScript-based compiler. Still in development, but set to become a major alternative for high-performance TypeScript projects.
+
 ## Experimental/Research Projects
 | Project | Type | Description |
 |-|-|-|
