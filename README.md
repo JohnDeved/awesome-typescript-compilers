@@ -28,13 +28,13 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | Project | Target | Description |
 |-|-|-|
 | [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) | `WASM` | TypeScript-like language for WebAssembly. ([playground](https://www.assemblyscript.org/editor.html)) |
+| [ts2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Feature-complete TypeScript to Lua compiler. ([playground](https://typescripttolua.github.io/play/)) |
+| [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | TypeScript-to-Luau compiler for Roblox. ([playground](https://roblox-ts.com/playground)) |
 | [ts2c](https://github.com/andrei-markeev/ts2c) | `C` | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
 | [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler. |
 | [ts2gd](https://github.com/johnfn/ts2gd) | `GDScript` | Compile TypeScript to GDScript for Godot. |
 | [typesl](https://github.com/SieR-VR/typesl) | `GLSL` | Typescript to GLSL transpiler. |
 | [hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) | `Flutter` | No native bridge, no V8. Just Dart. |
-| [ts2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Feature-complete TypeScript to Lua compiler. ([playground](https://typescripttolua.github.io/play/)) |
-| [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | TypeScript-to-Luau compiler for Roblox. ([playground](https://roblox-ts.com/playground)) |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
 | [ts2dart](https://github.com/angular/ts2dart) | `Dart` | TypeScript to Dart transpiler. |
 
