@@ -15,6 +15,9 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
 | [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. |
+| [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
+| [biome](https://github.com/biomejs/biome) | All-in-one toolchain for web projects (formatter, linter, bundler) - successor to Rome. |
+| [tsx](https://github.com/esbuild-kit/tsx) | TypeScript Execute - Node.js enhanced with esbuild to run TypeScript & ESM files. |
 
 ## Runtimes
 | Project | Description |
@@ -23,6 +26,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
+| [tsx](https://github.com/esbuild-kit/tsx) | TypeScript Execute - Node.js enhanced with esbuild to run TypeScript & ESM files. |
 
 ## Other Language Targets
 | Project | Target | Description |
@@ -37,6 +41,13 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) | `Flutter` | No native bridge, no V8. Just Dart. |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
 | [ts2dart](https://github.com/angular/ts2dart) | `Dart` | TypeScript to Dart transpiler. |
+| [OneLang](https://github.com/onelang/OneLang) | `Multi-target` | Transpiles to C++, C#, Go, Java, JavaScript, PHP, Python, Ruby, Swift, TypeScript. |
+| [Fusion](https://github.com/fusionlanguage/fut) | `Multi-target` | Programming language transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript, OpenCL C. |
+| [ts2php](https://github.com/searchfe/ts2php) | `PHP` | TypeScript to PHP transpiler. ([playground](https://searchfe.github.io/ts2php/)) |
+| [Wax](https://github.com/LingDong-/wax) | `Multi-target` | Tiny programming language transpiling to C, C++, Java, TypeScript, Python, C#, Swift, Lua, WebAssembly. ([playground](https://waxc.netlify.app/)) |
+| [swc4j](https://github.com/caoccao/swc4j) | `JVM` | Ultra-fast JavaScript and TypeScript compilation and bundling tool on JVM. |
+| [TypeScript2Python](https://github.com/TheLartians/TypeScript2Python) | `Python` | Transpile TypeScript types to Python. |
+| [elephize](https://github.com/VKCOM/elephize) | `PHP` | TypeScript to PHP translation tool. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
