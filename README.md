@@ -10,7 +10,6 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
 | [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. |
-| [turbopack](https://github.com/vercel/turbopack) | Rust-based incremental bundler by Vercel for JavaScript/TypeScript. |
 | [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
 | [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
