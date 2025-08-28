@@ -40,7 +40,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 |-|-|-|
 | [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) | `WASM` | TypeScript-like language for WebAssembly. ([playground](https://www.assemblyscript.org/editor.html)) |
 | [ts2lua](https://github.com/TypeScriptToLua/TypeScriptToLua) | `Lua` | Feature-complete TypeScript to Lua compiler. ([playground](https://typescripttolua.github.io/play/)) |
-| [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | TypeScript-to-Luau compiler for Roblox. ([playground](https://roblox-ts.com/playground/)) |
+| [roblox-ts](https://github.com/roblox-ts/roblox-ts) | `Luau` | TypeScript-to-Luau compiler for Roblox. ([playground](https://roblox-ts.com/playground)) |
 | [ts2c](https://github.com/andrei-markeev/ts2c) | `C` | Convert Javascript/TypeScript to C ([online demo](https://andrei-markeev.github.io/ts2c/)) |
 | [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler. |
 | [ts2gd](https://github.com/johnfn/ts2gd) | `GDScript` | Compile TypeScript to GDScript for Godot. |
