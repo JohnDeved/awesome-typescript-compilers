@@ -26,7 +26,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 ## Runtimes
 | Project | Description |
 |-|-|
-| [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. ([playground](https://deno.com/play)) |
+| [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
 | [tsx](https://github.com/privatenumber/tsx) | Run TypeScript with an esbuild-powered ESM loader. |
