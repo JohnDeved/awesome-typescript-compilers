@@ -39,8 +39,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts-node](https://github.com/TypeStrong/ts-node) | TypeScript execution and REPL for Node.js. |
 | [jiti](https://github.com/unjs/jiti) | Runtime TypeScript and ESM support for Node.js. |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
-| [hermes](https://github.com/facebook/hermes) | JavaScript engine optimized for React Native with TypeScript support. |
-| [quickjs](https://github.com/bellard/quickjs) | Small and embeddable JavaScript engine with TypeScript transpilation support. |
+| [hermes](https://github.com/facebook/hermes) | JavaScript engine optimized for React Native with TypeScript support via transpilation. |
+| [quickjs](https://github.com/bellard/quickjs) | Small and embeddable JavaScript engine that runs transpiled TypeScript. |
 
 ## Other Language Targets
 | Project | Target | Description |
