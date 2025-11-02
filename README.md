@@ -10,7 +10,11 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
 | [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. |
+| [rsbuild](https://github.com/web-infra-dev/rsbuild) | Rspack-based build tool with out-of-the-box setup for TypeScript projects. |
+| [turbopack](https://github.com/vercel/turbo) | Incremental Rust-based bundler optimized for TypeScript, integrated in Next.js. |
 | [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
+| [mako](https://github.com/umijs/mako) | Extremely fast Rust-based production-grade web bundler. |
+| [unbuild](https://github.com/unjs/unbuild) | Unified JavaScript build system for TypeScript libraries. |
 | [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
 | [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. ([playground](https://playground.oxc.rs/)) |
@@ -29,10 +33,14 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
+| [workerd](https://github.com/cloudflare/workerd) | JavaScript/TypeScript runtime built on V8 for Cloudflare Workers. |
+| [llrt](https://github.com/awslabs/llrt) | Low-latency runtime for JavaScript and TypeScript using QuickJS, built for AWS Lambda. |
 | [tsx](https://github.com/privatenumber/tsx) | Run TypeScript with an esbuild-powered ESM loader. |
 | [ts-node](https://github.com/TypeStrong/ts-node) | TypeScript execution and REPL for Node.js. |
 | [jiti](https://github.com/unjs/jiti) | Runtime TypeScript and ESM support for Node.js. |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
+| [hermes](https://github.com/facebook/hermes) | JavaScript engine optimized for React Native with TypeScript support. |
+| [quickjs](https://github.com/bellard/quickjs) | Small and embeddable JavaScript engine with TypeScript transpilation support. |
 
 ## Other Language Targets
 | Project | Target | Description |
@@ -51,6 +59,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2rust](https://github.com/vedantroy/ts2rust) | `Rust` | Typescript to Rust transpiler. |
 | [ts2php](https://github.com/searchfe/ts2php) | `PHP` | Typescript to PHP Transpiler. |
 | [ts2py](https://github.com/chayleaf/ts2py) | `Python` | TypeScript to Python converter. |
+| [ts2zig](https://github.com/jarble/typescript-to-zig) | `Zig` | Experimental TypeScript to Zig transpiler. |
+| [ts2moonbit](https://github.com/oboard/typescript2moonbit) | `MoonBit` | TypeScript to MoonBit converter. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
@@ -59,3 +69,4 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [TypeRunner](https://github.com/marcj/TypeRunner) | `Native Compiler` | Experimental TypeScript to native code compiler. |
 | [StaticScript](https://github.com/StaticScript/StaticScript) | `Research Language` | A new statically typed programming language with native compilation. |
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
+| [glinka](https://github.com/oetherington/glinka) | `Native Compiler` | Fast TypeScript compiler written in Zig, under development. |
