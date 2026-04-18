@@ -43,7 +43,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [tsx](https://github.com/privatenumber/tsx) | Run TypeScript with an esbuild-powered ESM loader. |
 | [ts-node](https://github.com/TypeStrong/ts-node) | TypeScript execution and REPL for Node.js. |
 | [ts-blank-space](https://github.com/bloomberg/ts-blank-space) | Small, fast, pure-JS type-stripper that uses the official TypeScript parser. |
-| [@swc-node/register / swc-node](https://github.com/swc-project/swc-node) | Fast Node runtime path for TypeScript without typechecking. |
+| [swc-node](https://github.com/swc-project/swc-node) | Fast Node runtime path for TypeScript without typechecking. |
 | [esbuild-register](https://github.com/egoist/esbuild-register) | On-the-fly JSX/TypeScript/esnext transpilation with esbuild. |
 | [tsm](https://github.com/lukeed/tsm) | TypeScript module loader supporting `node <file>`, `--loader`, and `--require`. |
 | [tsimp](https://github.com/tapjs/tsimp) | Node import loader that uses the official TypeScript implementation and aims for `tsc` consistency with typechecking. |
