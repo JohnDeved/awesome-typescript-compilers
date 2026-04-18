@@ -34,7 +34,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 |-|-|
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
-| [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
+| [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0+ |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 
 ## Loaders / Execution Tools
