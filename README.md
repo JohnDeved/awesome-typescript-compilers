@@ -17,7 +17,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
 | [tsdown](https://github.com/rolldown/tsdown) | Library bundler powered by Rolldown and Oxc; builds TypeScript and generates declaration files. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
-| [Mako](https://github.com/umijs/mako) | Rust-based web bundler for apps, libraries, and frameworks. ([playground](https://codesandbox.io/p/devbox/mako-jzhkjh)) |
+| [Mako](https://github.com/umijs/mako) | Rust-based web bundler for apps, libraries, and frameworks. ([playground](https://utoo-repl.vercel.app/)) |
 | [oxc](https://github.com/oxc-project/oxc) | Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. ([playground](https://playground.oxc.rs/)) |
 | [swc4j](https://github.com/caoccao/swc4j) | JVM-facing TypeScript/JavaScript compilation and bundling tool built around SWC. |
 | [webpack](https://github.com/webpack/webpack) | JavaScript bundler with TypeScript integration. |
