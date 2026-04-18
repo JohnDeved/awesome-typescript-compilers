@@ -29,12 +29,17 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ezno](https://github.com/kaleidawave/ezno) | JavaScript compiler and TypeScript checker in Rust focusing on static analysis. ([playground](https://kaleidawave.github.io/ezno/playground/)) |
 | [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
 
-## Runtimes / Loaders
+## Runtimes
 | Project | Description |
 |-|-|
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
+| [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
+
+## Loaders / Execution Tools
+| Project | Description |
+|-|-|
 | [tsx](https://github.com/privatenumber/tsx) | Run TypeScript with an esbuild-powered ESM loader. |
 | [ts-node](https://github.com/TypeStrong/ts-node) | TypeScript execution and REPL for Node.js. |
 | [ts-blank-space](https://github.com/bloomberg/ts-blank-space) | Small, fast, pure-JS type-stripper that uses the official TypeScript parser. |
@@ -45,7 +50,6 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [Amaro](https://github.com/nodejs/amaro) | Node.js TypeScript wrapper around `@swc/wasm-typescript`, used internally for Node’s type stripping. |
 | [vite-node](https://github.com/antfu-collective/vite-node) | Legacy Vite-powered Node runtime with TS support; new projects are now directed to Vite’s built-in Module Runner. |
 | [jiti](https://github.com/unjs/jiti) | Runtime TypeScript and ESM support for Node.js. |
-| [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 
 ## Other Language Targets
 | Project | Target | Description |
