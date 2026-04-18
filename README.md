@@ -10,7 +10,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
 | [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. |
-| [Turbopack](https://github.com/vercel/next.js) | Rust-based incremental bundler with zero-config TypeScript support in Next.js. |
+| [Turbopack](https://github.com/vercel/turbo) | Rust-based incremental bundler with zero-config TypeScript support in Next.js. |
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast build tool that integrates Rspack, SWC, and Lightning CSS. |
 | [Rslib](https://github.com/web-infra-dev/rslib) | Library development tool built on top of Rsbuild/Rspack. |
 | [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
@@ -43,7 +43,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [tsm](https://github.com/lukeed/tsm) | TypeScript module loader supporting `node <file>`, `--loader`, and `--require`. |
 | [tsimp](https://github.com/tapjs/tsimp) | Node import loader that uses the official TypeScript implementation and aims for `tsc` consistency with typechecking. |
 | [Amaro](https://github.com/nodejs/amaro) | Node.js TypeScript wrapper around `@swc/wasm-typescript`, used internally for Node’s type stripping. |
-| [vite-node](https://github.com/antfu-collective/vite-node) | Vite-powered Node runtime with TS support; kept as a historical/runtime entry, while new projects are now pointed to Vite’s built-in Module Runner. |
+| [vite-node](https://github.com/antfu-collective/vite-node) | Legacy Vite-powered Node runtime with TS support; new projects are now directed to Vite’s built-in Module Runner. |
 | [jiti](https://github.com/unjs/jiti) | Runtime TypeScript and ESM support for Node.js. |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 
