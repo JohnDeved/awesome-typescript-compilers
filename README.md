@@ -14,7 +14,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast build tool that integrates Rspack, SWC, and Lightning CSS. |
 | [Rslib](https://github.com/web-infra-dev/rslib) | Library development tool built on top of Rsbuild/Rspack. |
 | [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
-| [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
+| [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. ([repl](https://repl.rolldown.rs/)) |
 | [tsdown](https://github.com/rolldown/tsdown) | Library bundler powered by Rolldown and Oxc; builds TypeScript and generates declaration files. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
 | [Mako](https://github.com/umijs/mako) | Rust-based web bundler for apps, libraries, and frameworks. ([playground](https://utoo-repl.vercel.app/)) |
@@ -22,7 +22,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [swc4j](https://github.com/caoccao/swc4j) | JVM-facing TypeScript/JavaScript compilation and bundling tool built around SWC. |
 | [webpack](https://github.com/webpack/webpack) | JavaScript bundler with TypeScript integration. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. ([repl](https://rollupjs.org/repl/)) |
-| [parcel](https://github.com/parcel-bundler/parcel) | Zero configuration web app bundler with TypeScript support. |
+| [parcel](https://github.com/parcel-bundler/parcel) | Zero configuration web app bundler with TypeScript support. ([repl](https://repl.parceljs.org/)) |
 | [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
 | [sucrase](https://github.com/alangpierce/sucrase) | Super-fast alternative to Babel focusing on modern JS runtimes. ([playground](https://sucrase.io/)) |
