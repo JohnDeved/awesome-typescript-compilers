@@ -90,3 +90,4 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [StaticScript](https://github.com/StaticScript/StaticScript) | `Research Language` | A new statically typed programming language with native compilation. |
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
 | [ts-llvm](https://github.com/emillaine/ts-llvm) | `Native Compiler` | TypeScript to LLVM IR compiler enabling AOT native compilation (archived). |
+| [mini-typescript](https://github.com/sandersn/mini-typescript) | `Educational` | A miniature model of the TypeScript compiler intended to teach the structure of the real one. |
