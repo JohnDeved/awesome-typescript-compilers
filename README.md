@@ -36,6 +36,10 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0 |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
+| [elide](https://github.com/elide-dev/elide) | Polyglot runtime and toolchain with native TypeScript, JavaScript, Kotlin, and Python support, built on GraalVM. |
+| [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
+| [txiki.js](https://github.com/saghul/txiki.js) | Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via `@txikijs/types`. |
+| [LLRT](https://github.com/awslabs/llrt) | Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time. |
 
 ## Loaders / Execution Tools
 | Project | Description |
@@ -72,6 +76,9 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2py](https://github.com/chayleaf/ts2py) | `Python` | TypeScript to Python converter. |
 | [ast-transpiler](https://github.com/carlosmiei/ast-transpiler) | `PHP/Python/C#/Go` | Work-in-progress AST-based transpiler from TypeScript to PHP, Python, C#, and Go. |
 | [Karakum](https://github.com/karakum-team/karakum) | `Kotlin` | Converts TypeScript declaration files into Kotlin declarations. |
+| [Porffor](https://github.com/CanadaHonk/porffor) | `WASM/Native` | Ahead-of-time JavaScript/TypeScript compiler producing WebAssembly and native binaries. |
+| [ts2go](https://github.com/leona/ts2go) | `Go` | Experimental TypeScript to Go transpiler. ([playground](https://ts2go.pages.dev/)) |
+| [ts-swift-transpiler](https://github.com/marcelganczak/ts-swift-transpiler) | `Swift` | JavaScript/TypeScript to Swift transpiler built with ANTLR. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
@@ -80,3 +87,4 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [TypeRunner](https://github.com/marcj/TypeRunner) | `Native Compiler` | Experimental TypeScript to native code compiler. |
 | [StaticScript](https://github.com/StaticScript/StaticScript) | `Research Language` | A new statically typed programming language with native compilation. |
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
+| [ts-llvm](https://github.com/emillaine/ts-llvm) | `Native Compiler` | TypeScript to LLVM IR compiler enabling AOT native compilation (archived). |
