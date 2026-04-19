@@ -40,6 +40,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
 | [txiki.js](https://github.com/saghul/txiki.js) | Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via `@txikijs/types`. |
 | [LLRT](https://github.com/awslabs/llrt) | Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time. |
+| [DeviceScript](https://github.com/microsoft/devicescript) | TypeScript for tiny IoT devices (ESP32, RP2040, ...) — Microsoft project that compiles a subset of TS to a custom VM bytecode (archived). |
 | [Andromeda](https://github.com/tryandromeda/andromeda) | JavaScript & TypeScript runtime in Rust built on the Nova engine, with zero-config TypeScript support. |
 | [dune](https://github.com/aalykiot/dune) | Hobby JavaScript and TypeScript runtime built on V8 in Rust. |
 | [azle](https://github.com/demergent-labs/azle) | WebAssembly runtime for TypeScript and JavaScript on the Internet Computer (ICP). |
@@ -97,3 +98,4 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [mini-typescript](https://github.com/sandersn/mini-typescript) | `Educational` | A miniature model of the TypeScript compiler intended to teach the structure of the real one. |
 | [muta-minits](https://github.com/nervosnetwork/muta-minits) | `Native Compiler` | TypeScript to LLVM compiler from Nervos Network for the Muta blockchain framework (archived). |
 | [typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) | `Type-Level` | A WebAssembly runtime implemented entirely in TypeScript types. |
+| [tyvm](https://github.com/zackradisic/tyvm) | `Type-Level` | Experimental bytecode interpreter / type-checker for type-level TypeScript, written in Zig. |
