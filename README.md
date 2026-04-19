@@ -9,12 +9,12 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [swc](https://github.com/swc-project/swc) | Rust-based platform for fast TypeScript/JavaScript compilation. ([playground](https://swc.rs/playground)) |
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
-| [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. |
+| [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. ([playground](https://playground.rspack.rs/)) |
 | [Turbopack](https://github.com/vercel/turbo) | Rust-based incremental bundler with zero-config TypeScript support in Next.js. |
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast build tool that integrates Rspack, SWC, and Lightning CSS. |
 | [Rslib](https://github.com/web-infra-dev/rslib) | Library development tool built on top of Rsbuild/Rspack. |
 | [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
-| [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. |
+| [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. ([repl](https://repl.rolldown.rs/)) |
 | [tsdown](https://github.com/rolldown/tsdown) | Library bundler powered by Rolldown and Oxc; builds TypeScript and generates declaration files. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
 | [Mako](https://github.com/umijs/mako) | Rust-based web bundler for apps, libraries, and frameworks. ([playground](https://utoo-repl.vercel.app/)) |
@@ -22,7 +22,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [swc4j](https://github.com/caoccao/swc4j) | JVM-facing TypeScript/JavaScript compilation and bundling tool built around SWC. |
 | [webpack](https://github.com/webpack/webpack) | JavaScript bundler with TypeScript integration. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. ([repl](https://rollupjs.org/repl/)) |
-| [parcel](https://github.com/parcel-bundler/parcel) | Zero configuration web app bundler with TypeScript support. |
+| [parcel](https://github.com/parcel-bundler/parcel) | Zero configuration web app bundler with TypeScript support. ([repl](https://repl.parceljs.org/)) |
 | [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
 | [sucrase](https://github.com/alangpierce/sucrase) | Super-fast alternative to Babel focusing on modern JS runtimes. ([playground](https://sucrase.io/)) |
@@ -36,6 +36,10 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0+ |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
+| [elide](https://github.com/elide-dev/elide) | Polyglot runtime and toolchain with native TypeScript, JavaScript, Kotlin, and Python support, built on GraalVM. ([playground](https://play.elide.dev/)) |
+| [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
+| [txiki.js](https://github.com/saghul/txiki.js) | Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via `@txikijs/types`. |
+| [LLRT](https://github.com/awslabs/llrt) | Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time. |
 
 ## Loaders / Execution Tools
 | Project | Description |
@@ -72,6 +76,9 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2py](https://github.com/chayleaf/ts2py) | `Python` | TypeScript to Python converter. |
 | [ast-transpiler](https://github.com/carlosmiei/ast-transpiler) | `PHP/Python/C#/Go` | Work-in-progress AST-based transpiler from TypeScript to PHP, Python, C#, and Go. |
 | [Karakum](https://github.com/karakum-team/karakum) | `Kotlin` | Converts TypeScript declaration files into Kotlin declarations. |
+| [Porffor](https://github.com/CanadaHonk/porffor) | `WASM/Native` | Ahead-of-time JavaScript/TypeScript compiler producing WebAssembly and native binaries. |
+| [ts2go](https://github.com/leona/ts2go) | `Go` | Experimental TypeScript to Go transpiler. ([playground](https://ts2go.pages.dev/)) |
+| [ts-swift-transpiler](https://github.com/marcelganczak/ts-swift-transpiler) | `Swift` | JavaScript/TypeScript to Swift transpiler built with ANTLR. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
@@ -80,3 +87,4 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [TypeRunner](https://github.com/marcj/TypeRunner) | `Native Compiler` | Experimental TypeScript to native code compiler. |
 | [StaticScript](https://github.com/StaticScript/StaticScript) | `Research Language` | A new statically typed programming language with native compilation. |
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
+| [ts-llvm](https://github.com/emillaine/ts-llvm) | `Native Compiler` | TypeScript to LLVM IR compiler enabling AOT native compilation (archived). |
