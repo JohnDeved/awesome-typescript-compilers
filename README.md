@@ -40,6 +40,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
 | [txiki.js](https://github.com/saghul/txiki.js) | Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via `@txikijs/types`. |
 | [LLRT](https://github.com/awslabs/llrt) | Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time. |
+| [Andromeda](https://github.com/tryandromeda/andromeda) | JavaScript & TypeScript runtime in Rust built on the Nova engine, with zero-config TypeScript support. |
 
 ## Loaders / Execution Tools
 | Project | Description |
@@ -79,6 +80,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [Porffor](https://github.com/CanadaHonk/porffor) | `WASM/Native` | Ahead-of-time JavaScript/TypeScript compiler producing WebAssembly and native binaries. |
 | [ts2go](https://github.com/leona/ts2go) | `Go` | Experimental TypeScript to Go transpiler. ([playground](https://ts2go.pages.dev/)) |
 | [ts-swift-transpiler](https://github.com/marcelganczak/ts-swift-transpiler) | `Swift` | JavaScript/TypeScript to Swift transpiler built with ANTLR. |
+| [ts2haxe](https://github.com/Ezelia/ts2haxe) | `Haxe` | TypeScript to Haxe converter that automates common conversion tasks. |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
