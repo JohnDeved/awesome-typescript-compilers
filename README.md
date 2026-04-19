@@ -41,6 +41,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [txiki.js](https://github.com/saghul/txiki.js) | Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via `@txikijs/types`. |
 | [LLRT](https://github.com/awslabs/llrt) | Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time. |
 | [Andromeda](https://github.com/tryandromeda/andromeda) | JavaScript & TypeScript runtime in Rust built on the Nova engine, with zero-config TypeScript support. |
+| [dune](https://github.com/aalykiot/dune) | Hobby JavaScript and TypeScript runtime built on V8 in Rust. |
+| [azle](https://github.com/demergent-labs/azle) | WebAssembly runtime for TypeScript and JavaScript on the Internet Computer (ICP). |
 
 ## Loaders / Execution Tools
 | Project | Description |
@@ -81,6 +83,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [ts2go](https://github.com/leona/ts2go) | `Go` | Experimental TypeScript to Go transpiler. ([playground](https://ts2go.pages.dev/)) |
 | [ts-swift-transpiler](https://github.com/marcelganczak/ts-swift-transpiler) | `Swift` | JavaScript/TypeScript to Swift transpiler built with ANTLR. |
 | [ts2haxe](https://github.com/Ezelia/ts2haxe) | `Haxe` | TypeScript to Haxe converter that automates common conversion tasks. |
+| [Wasmnizer-ts](https://github.com/web-devkits/Wasmnizer-ts) | `WasmGC` | Toolchain for compiling TypeScript to WebAssembly with GC support. |
+| [poseidon](https://github.com/Turbin3/poseidon) | `Anchor (Rust)` | Transpiler that converts TypeScript Solana programs into Anchor (Rust). |
 
 ## Experimental/Research Projects
 | Project | Type | Description |
@@ -91,3 +95,5 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
 | [ts-llvm](https://github.com/emillaine/ts-llvm) | `Native Compiler` | TypeScript to LLVM IR compiler enabling AOT native compilation (archived). |
 | [mini-typescript](https://github.com/sandersn/mini-typescript) | `Educational` | A miniature model of the TypeScript compiler intended to teach the structure of the real one. |
+| [muta-minits](https://github.com/nervosnetwork/muta-minits) | `Native Compiler` | TypeScript to LLVM compiler from Nervos Network for the Muta blockchain framework (archived). |
+| [typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) | `Type-Level` | A WebAssembly runtime implemented entirely in TypeScript types. |
