@@ -92,6 +92,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 |-|-|-|
 | [BosqueLang](https://github.com/microsoft/BosqueLanguage) | `Research Language` | A TypeScript-like language created by Microsoft. |
 | [TypeRunner](https://github.com/marcj/TypeRunner) | `Native Compiler` | Experimental TypeScript to native code compiler. |
+| [scriptc](https://github.com/vercel-labs/scriptc) | `Native Compiler` | Experimental TypeScript/JavaScript compiler that emits LLVM IR for native executables and WebAssembly modules. |
 | [StaticScript](https://github.com/StaticScript/StaticScript) | `Research Language` | A new statically typed programming language with native compilation. |
 | [tsCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) | `Native Compiler` | TypeScript to native code compiler using LLVM. |
 | [ts-llvm](https://github.com/emillaine/ts-llvm) | `Native Compiler` | TypeScript to LLVM IR compiler enabling AOT native compilation (archived). |
