@@ -1,6 +1,8 @@
 # Awesome TypeScript Compilers, Transpilers and Runtimes
 A curated list of TypeScript compilers, transpilers and runtimes targeting various languages and platforms.
 
+> **Type checking vs. transpilation:** Running or transpiling TypeScript does not necessarily check types. For example, [esbuild](https://esbuild.github.io/content-types/#typescript) and [Node.js type stripping](https://nodejs.org/api/typescript.html#type-stripping) do not perform type checking; use a separate checker such as `tsc --noEmit`.
+
 ## JavaScript Targets
 | Project | Description |
 |-|-|
@@ -10,10 +12,9 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
 | [rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler with TypeScript support. ([playground](https://playground.rspack.rs/)) |
-| [Turbopack](https://github.com/vercel/turbo) | Rust-based incremental bundler with zero-config TypeScript support in Next.js. |
+| [Turbopack](https://github.com/vercel/next.js) | Rust-based incremental bundler integrated into Next.js; transpiles TypeScript with SWC without type checking. ([docs](https://nextjs.org/docs/app/api-reference/turbopack)) |
 | [Rsbuild](https://github.com/web-infra-dev/rsbuild) | Fast build tool that integrates Rspack, SWC, and Lightning CSS. |
 | [Rslib](https://github.com/web-infra-dev/rslib) | Library development tool built on top of Rsbuild/Rspack. |
-| [biome](https://github.com/biomejs/biome) | Successor to Rome providing a unified TypeScript toolchain. ([playground](https://biomejs.dev/playground/)) |
 | [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. ([repl](https://repl.rolldown.rs/)) |
 | [tsdown](https://github.com/rolldown/tsdown) | Library bundler powered by Rolldown and Oxc; builds TypeScript and generates declaration files. |
 | [farm](https://github.com/farm-fe/farm) | Extremely fast Vite-compatible web build tool written in Rust. |
@@ -23,18 +24,18 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [webpack](https://github.com/webpack/webpack) | JavaScript bundler with TypeScript integration. |
 | [rollup](https://github.com/rollup/rollup) | JavaScript module bundler with TypeScript support. ([repl](https://rollupjs.org/repl/)) |
 | [parcel](https://github.com/parcel-bundler/parcel) | Zero configuration web app bundler with TypeScript support. ([repl](https://repl.parceljs.org/)) |
-| [tsup](https://github.com/egoist/tsup) | TypeScript bundler powered by esbuild. |
+| [tsup](https://github.com/egoist/tsup) | TypeScript library bundler powered by esbuild; no longer actively maintained. The project recommends [tsdown](https://github.com/rolldown/tsdown). |
 | [babel](https://github.com/babel/babel) | The compiler for next generation JavaScript with TypeScript support. ([playground](https://babeljs.io/repl)) |
 | [sucrase](https://github.com/alangpierce/sucrase) | Super-fast alternative to Babel focusing on modern JS runtimes. ([playground](https://sucrase.io/)) |
 | [ezno](https://github.com/kaleidawave/ezno) | JavaScript compiler and TypeScript checker in Rust focusing on static analysis. ([playground](https://kaleidawave.github.io/ezno/playground/)) |
-| [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance. |
+| [stc](https://github.com/dudykr/stc) | Rust-based static type checker for TypeScript focusing on performance (archived). |
 
 ## Runtimes
 | Project | Description |
 |-|-|
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
-| [node.js 23.6.0+](https://github.com/nodejs/node/pull/56450) | Partial support in 23.6.0+ |
+| [Node.js](https://github.com/nodejs/node) | JavaScript runtime with built-in TypeScript type stripping for erasable syntax; does not type-check, read `tsconfig.json`, or support TSX. ([docs](https://nodejs.org/api/typescript.html)) |
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 | [elide](https://github.com/elide-dev/elide) | Polyglot runtime and toolchain with native TypeScript, JavaScript, Kotlin, and Python support, built on GraalVM. ([playground](https://play.elide.dev/)) |
 | [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
@@ -69,6 +70,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) | `C++` | TypeScript to C++ transpiler. |
 | [ts2gd](https://github.com/johnfn/ts2gd) | `GDScript` | Compile TypeScript to GDScript for Godot. |
 | [typesl](https://github.com/SieR-VR/typesl) | `GLSL` | Typescript to GLSL transpiler. |
+| [TypeGPU](https://github.com/software-mansion/TypeGPU) | `WGSL` | Generates WGSL shaders from GPU-targeted TypeScript functions for WebGPU. ([docs](https://docs.swmansion.com/TypeGPU/)) |
 | [hydro-sdk](https://github.com/hydro-sdk/hydro-sdk) | `Flutter` | No native bridge, no V8. Just Dart. |
 | [jsii](https://github.com/aws/jsii) | `Python/Java/C#/.NET/Go/...` | Lets you author libraries in TypeScript and consume them from Python, Java, C#/.NET, Go, and more. |
 | [ts2nim](https://github.com/bung87/ts2nim) | `Nim` | Typescript to Nim transpiler. |
@@ -100,3 +102,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [muta-minits](https://github.com/nervosnetwork/muta-minits) | `Native Compiler` | TypeScript to LLVM compiler from Nervos Network for the Muta blockchain framework (archived). |
 | [typescript-types-only-wasm-runtime](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime) | `Type-Level` | A WebAssembly runtime implemented entirely in TypeScript types. |
 | [tyvm](https://github.com/zackradisic/tyvm) | `Type-Level` | Experimental bytecode interpreter / type-checker for type-level TypeScript, written in Zig. |
+
+## Related Tooling
+| Project | Description |
+|-|-|
+| [biome](https://github.com/biomejs/biome) | Rust-based formatter and linter for JavaScript/TypeScript, complementary to compilers and runtimes. ([playground](https://biomejs.dev/playground/)) |
