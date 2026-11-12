@@ -37,6 +37,7 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 | [deno](https://github.com/denoland/deno) | Secure TypeScript runtime & toolkit written in Rust. |
 | [bun](https://github.com/oven-sh/bun) | Fast JavaScript and TypeScript runtime & toolkit written in Zig. |
 | [Node.js](https://github.com/nodejs/node) | JavaScript runtime with built-in TypeScript type stripping for erasable syntax; does not type-check, read `tsconfig.json`, or support TSX. ([docs](https://nodejs.org/api/typescript.html)) |
+| [ant](https://github.com/theMackabu/ant) | Ant is a lightweight, high-performance JavaScript/TypeScript runtime built from scratch. It runs real npm packages, starts instantly and ships as a portable 9 MB binary. No 140 MB download, and no toolchain to set up. Ant Silver is an independent engine, not a wrapper around V8, JSC, or SpiderMonkey.
 | [elsa](https://github.com/elsaland/elsa) | Minimal runtime for JavaScript and TypeScript written in Go. |
 | [elide](https://github.com/elide-dev/elide) | Polyglot runtime and toolchain with native TypeScript, JavaScript, Kotlin, and Python support, built on GraalVM. ([playground](https://play.elide.dev/)) |
 | [yavascript](https://github.com/suchipi/yavascript) | QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement. |
