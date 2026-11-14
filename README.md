@@ -8,8 +8,8 @@ A curated list of TypeScript compilers, transpilers and runtimes targeting vario
 |-|-|
 | [tsc](https://github.com/microsoft/TypeScript) | Official TypeScript compiler by Microsoft. ([playground](https://www.typescriptlang.org/play)) |
 | [tsgo](https://github.com/microsoft/typescript-go) | Go-based TypeScript compiler by Microsoft targeting 10x performance. |
-| [tsrs](https://github.com/oxc-project/tsrs) | Rust port of Microsoft's Go-based TypeScript compiler and language server, with `tsc`-compatible type checking and Oxlint integration (Cloudflare and Owner.com). |
-| [tsc-rs](https://github.com/pingdotgg/ts-rust) | Rust port of Microsoft's Go-based TypeScript compiler and language server, with `tsc`-compatible type checking and built-in Effect diagnostics (Ping.gg). |
+| [tsrs](https://github.com/oxc-project/tsrs) | Rust port of Microsoft's Go-based TypeScript compiler and language server, with `tsc`-compatible type checking and Oxlint integration (VoidZero). |
+| [tsc-rs](https://github.com/pingdotgg/ts-rust) | Rust port of Microsoft's Go-based TypeScript compiler and language server, with `tsc`-compatible type checking and built-in Effect diagnostics (T3). |
 | [swc](https://github.com/swc-project/swc) | Rust-based platform for fast TypeScript/JavaScript compilation. ([playground](https://swc.rs/playground)) |
 | [esbuild](https://github.com/evanw/esbuild) | Extremely fast TypeScript/JavaScript bundler written in Go. ([playground](https://esbuild.github.io/try/)) |
 | [vite](https://github.com/vitejs/vite) | Next generation frontend tooling with TypeScript support. ([playground](https://vite.new)) |
